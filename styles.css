@@ -1,1 +1,53 @@
-/* Write your CSS here! */
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+
+body {
+    margin: 8px;
+    padding: 50px;
+    display: block;
+    text-align: justify;
+    background-color: rgb(18, 3, 3);
+    color: rgb(237, 235, 191);
+    font-size: 21px;
+}
+
+.redH {
+    color: rgb(254, 195, 106);
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+    font-size: 24px;
+}
+
+a:link {
+    color: rgb(181, 140, 140);
+}
+
+a:visited {
+    color: rgb(237, 235, 191);
+}
+
+a:hover {
+    color:rgb(191, 235, 237);
+}
+
+a:active {
+    color: orange;
+}
+
+.ctext {
+    text-align: center;
+    color:rgb(243, 225, 212);
+    font-size: 22px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
